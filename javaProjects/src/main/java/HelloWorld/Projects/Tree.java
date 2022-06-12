@@ -1,4 +1,4 @@
-package HelloWorld;
+package HelloWorld.Projects;
 
 public class Tree {
     public static void main(String[] args){
