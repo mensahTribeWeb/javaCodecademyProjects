@@ -1,4 +1,4 @@
-package ControlsAndConditionals;
+package ControlsAndConditionals.Flow;
 
 import java.util.Scanner;
 

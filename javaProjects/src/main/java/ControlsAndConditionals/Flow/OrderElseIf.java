@@ -1,4 +1,4 @@
-package ControlsAndConditionals;
+package ControlsAndConditionals.Flow;
 
 public class OrderElseIf {
     // properties / instances

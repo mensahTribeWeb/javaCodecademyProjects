@@ -1,4 +1,4 @@
-package ControlsAndConditionals;
+package ControlsAndConditionals.Flow;
 
 public class OrderSwitch {
     boolean isFilled;
@@ -29,15 +29,16 @@ public class OrderSwitch {
         switch (shipping){
             case "Regular":
                 shippingCost = 0;
-
+                break;
             case "Express":
                 shippingCost = 1.75;
-
+                break;
             default:
                 shippingCost = .50;
-        return shippingCost;
+
         }
 
+        return shippingCost;
     }
 
     public static void main(String[] args) {
