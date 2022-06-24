@@ -1,7 +1,7 @@
 package ArraysAndArrayList.ArrayList;
 
 import java.util.ArrayList;
-public class toDosIndexing {
+public class ToDosIndexing {
 
         public static void main(String[] args) {
 
