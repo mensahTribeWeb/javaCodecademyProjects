@@ -1,6 +1,11 @@
 package Loops.While;
 
 // Incrementing While Loops
+/**
+ * while loops: These are useful to repeat a code
+ * block an unknown number of times until some
+ * condition is met.
+ * */
 
 public class Coffee {
     public static void main(String[] args) {
